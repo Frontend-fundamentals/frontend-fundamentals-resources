@@ -1,16 +1,24 @@
 # Resources and Useful Links
 
-### JavaScript Engine
-* https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes
-* https://medium.com/codex/javascript-event-loop-callback-queue-f15a4dd7f32b
-* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+### SCSS / SASS
+* https://www.youtube.com/watch?v=_a5j7KoflTs
+* https://www.studytonight.com/sass/
+* https://www.sitepoint.com/8-tips-help-get-best-sass/
 
-### DOM (Document Object Model)
-* https://javascript.info/dom-nodes
-* https://www.youtube.com/watch?v=0ik6X4DJKCc
-* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
-* https://medium.com/@dilarauluturhan/javascript-dom-document-object-model-85a2bc72769c
-* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+### CSS in JS
+* https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757
+* https://www.freecodecamp.org/news/styled-components-in-react/
+* https://www.gatsbyjs.com/docs/how-to/styling/css-in-js/
+* https://nextjs.org/docs/app/building-your-application/styling/css-in-js
 
-### JavaScript for manipulating DOM
-* https://medium.com/swlh/what-is-dom-manipulation-dd1f701723e3
+### TailwindCSS
+* https://play.tailwindcss.com/
+* https://tailwindcss.com/docs/utility-first
+
+
+### CSS Basics
+* https://web.dev/learn/css/box-model
+* https://flexbox.io/
+* https://web.dev/learn/css/
+* https://www.youtube.com/watch?v=FqmB-Zj2-PA
+* https://blog.hubspot.com/website/css-position
