@@ -1,25 +1,13 @@
 # Resources and Useful Links
 
-### SCSS / SASS
-* https://www.youtube.com/watch?v=_a5j7KoflTs
-* https://www.studytonight.com/sass/
-* https://www.sitepoint.com/8-tips-help-get-best-sass/
+## Mobile first
+* https://www.interaction-design.org/literature/topics/mobile-first
+* https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/
 
-### CSS in JS
-* https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757
-* https://www.freecodecamp.org/news/styled-components-in-react/
-* https://www.gatsbyjs.com/docs/how-to/styling/css-in-js/
-* https://nextjs.org/docs/app/building-your-application/styling/css-in-js
+## Media Queries
+* https://www.toptal.com/responsive-web/introduction-to-responsive-web-design-pseudo-elements-media-queries
+* https://saucelabs.com/resources/blog/css-breakpoints-media-query-breakpoints-responsive-design
 
-### TailwindCSS
-* https://play.tailwindcss.com/
-* https://tailwindcss.com/docs/utility-first
+## Responsiveness with FlexBox
+* https://www.codecademy.com/learn/fecp-22-making-a-website-responsive/modules/wdcp-22-layout-with-flexbox/cheatsheet
 
-
-### CSS Basics
-* https://web.dev/learn/css/box-model
-* https://flexbox.io/
-* https://web.dev/learn/css/
-* https://www.youtube.com/watch?v=FqmB-Zj2-PA
-* https://blog.hubspot.com/website/css-position
-* https://www.digitalocean.com/community/tutorials/css-css-units-explained
