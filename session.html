@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Media queries</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+
+    }
+
+    body {
+        padding: 4rem;
+    }
+
+    .input{
+        background-color: transparent;
+        border: none;
+        outline: none;
+        padding: 0.5rem 1.75rem;
+        border-bottom: 1px solid;
+    }
+
+    .button {
+        background-color: transparent;
+        font-size: 1.25rem;
+        padding: 0.5rem 1.75rem;
+        border: none;
+        outline: none;
+    }
+
+    .button-primary {
+        background-color: indigo;
+        color: #fff;
+    }
+
+    .survey-form {
+        padding: 1rem;
+        border: 1px dotted;
+        border-radius: 0.25rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    .survey-form .button {
+        flex-grow: 1;
+    }
+
+    .survey-form .fullname {
+        flex: 2 2 20rem;
+    }
+
+    .survey-form .age {
+        min-width: 1rem;
+        flex: 1 2 5rem
+    }
+</style>
+<body>
+<form class="survey-form">
+    <input placeholder="Full Name" class="input fullname"/>
+    <input placeholder="Age" class="input age"/>
+    <button class="button button-primary">Submit</button>
+</form>
+</body>
+</html>
