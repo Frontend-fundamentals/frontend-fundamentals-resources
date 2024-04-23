@@ -12,6 +12,7 @@
 ## Static Side Generation
 * https://www.cloudflare.com/learning/performance/static-site-generator/
 * https://nextjs.org/docs/pages/building-your-application/deploying/static-exports
+* https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k
 
 ## Astro
 * https://docs.astro.build/en/getting-started/
