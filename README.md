@@ -1,21 +1,12 @@
 # Resources and Useful Links
 
-## Client Side Routing
-* https://reactrouter.com/en/main/routers/create-browser-router
+## Roadmap 
+* https://roadmap.sh/typescript
 
-## Server Side Rendering
-* https://www.youtube.com/watch?v=GQzn7XRdzxY
-* https://vuejs.org/guide/scaling-up/ssr.html
-* https://www.educative.io/courses/next-js-build-react-apps/client-side-rendering-vs-server-side-rendering
-* https://www.educative.io/answers/what-is-server-side-rendering
+## Utility Types
+* https://www.typescriptlang.org/docs/handbook/utility-types.html
 
-## Static Side Generation
-* https://www.cloudflare.com/learning/performance/static-site-generator/
-* https://nextjs.org/docs/pages/building-your-application/deploying/static-exports
-* https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k
 
-## Astro
-* https://docs.astro.build/en/getting-started/
-
-## Partial Hydration
-* https://jasonformat.com/islands-architecture/
+## CheatSheets
+* https://github.com/typescript-cheatsheets/react
+* https://github.com/typescript-cheatsheets/utilities
